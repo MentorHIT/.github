@@ -145,7 +145,7 @@ All services are hosted on AWS and designed for scalability and security.
 
 ## 👥 Team
 
-- **Lior Lichensky** (M.Sc.)
+- **Lior Lamachinsky** (M.Sc.)
 - **Daniel Podolsky** (B.Sc.)
 - **Dvir Uliel** (B.Sc.)
 - **Noy Klar** (B.Sc.)
