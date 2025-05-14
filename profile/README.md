@@ -20,7 +20,7 @@ Even with available tools like advisors, forums, and job boards, students:
 
 ---
 
-## 🔍 Understanding Students’ Needs
+## 🔍 Understanding Students Needs
 
 At HIT, students frequently ask themselves:
 
