@@ -168,9 +168,8 @@ graph TB
 |------|
 | **Lior Lamachinsky** (M.Sc.) |
 | **Daniel Podolsky** (B.Sc.) |
-| **Dvir Uliel** (B.Sc.) |
 | **Noy Klar** (B.Sc.) |
-
+| **Dvir Uliel** (B.Sc.) |
 ---
 
 ## 🤝 Contributing
