@@ -94,7 +94,7 @@ graph TB
 
 ---
 
-## 🌈 Key Features
+## Key Features
 
 ### 🎯 **Academic Intelligence**
 - **Smart Course Recommendations** based on your grades and interests
